@@ -2,3 +2,6 @@
 	path = terminal-cms
 	url = https://github.com/wessleyn/terminal-cms
 	branch = main
+[submodule "free-email"]
+	path = free-email
+	url = ./free-email
