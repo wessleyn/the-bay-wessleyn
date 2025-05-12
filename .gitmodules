@@ -5,6 +5,3 @@
 [submodule "free-email"]
 	path = free-email
 	url = ./free-email
-[submodule "xianxia-bot"]
-	path = xianxia-bot
-	url = ./xianxia-bot
