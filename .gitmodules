@@ -1,0 +1,4 @@
+[submodule "terminal-cms"]
+	path = terminal-cms
+	url = https://github.com/wessleyn/terminal-cms
+	branch = main
